@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alphabook/static/css/main.c9a64fe0.css",
+    "main.js": "/alphabook/static/js/main.d19a98b9.js",
+    "static/media/wheel.svg": "/alphabook/static/media/wheel.f1184fb524b2572fe6e6f31d339bfc5b.svg",
+    "static/media/woman.svg": "/alphabook/static/media/woman.f4e5d163e887fcd9051d75ad8aaaf00a.svg",
+    "static/media/balls.svg": "/alphabook/static/media/balls.28fe258b48149fd42027d71d8d5b3e17.svg",
+    "static/media/gold-button.svg": "/alphabook/static/media/gold-button.a49d401efda454935940.svg",
+    "static/media/gold.svg": "/alphabook/static/media/gold.4a076ec5942c6c04fca9.svg",
+    "static/media/coin-first.svg": "/alphabook/static/media/coin-first.55cf11fd85e4026b3effe033a2b9286d.svg",
+    "static/media/coin-third.svg": "/alphabook/static/media/coin-third.1c89bbcc06e5065747f3b28e6325aa9a.svg",
+    "static/media/coin-second.svg": "/alphabook/static/media/coin-second.47de0848f6c69f7accca062aad4704b1.svg",
+    "static/media/hat.svg": "/alphabook/static/media/hat.8c85c17dd35fca478791bf6742737f42.svg",
+    "static/media/logo.svg": "/alphabook/static/media/logo.8a5986e44e500e21006de04bef18663b.svg",
+    "static/media/fontspring-demo-barred-BLACK.woff": "/alphabook/static/media/fontspring-demo-barred-BLACK.04c6728e0989a10a8557.woff",
+    "static/media/fontspring-demo-barred-BLACK.woff2": "/alphabook/static/media/fontspring-demo-barred-BLACK.bcf88a3428e38e51b3d3.woff2",
+    "static/media/snow.svg": "/alphabook/static/media/snow.56088a8a3c2167e748c3d47c474dca4b.svg",
+    "index.html": "/alphabook/index.html",
+    "main.c9a64fe0.css.map": "/alphabook/static/css/main.c9a64fe0.css.map",
+    "main.d19a98b9.js.map": "/alphabook/static/js/main.d19a98b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a64fe0.css",
+    "static/js/main.d19a98b9.js"
+  ]
+}
