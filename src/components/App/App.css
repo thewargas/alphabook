@@ -1,0 +1,20 @@
+.page {
+  min-width: 430px;
+  max-width: 1440px;
+  min-height: 100vh;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Fontspring-demo-barred", Arial, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  background-color: #fff;
+  overflow: hidden;
+  color: #0F0F0F;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Fontspring-demo-barred";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("fontspring-demo-barred-BLACK.woff2") format("woff2"),
+    url("fontspring-demo-barred-BLACK.woff") format("woff");
+}

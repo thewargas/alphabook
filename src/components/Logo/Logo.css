@@ -1,0 +1,42 @@
+.logo {
+  position: relative;
+  padding-top: 15px;
+  display: flex;
+  height: 17px;
+  transition: all 0.2s linear;
+}
+
+.logo__image {
+  width: fit-content;
+  height: 17px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: all 0.2s linear;
+}
+
+.logo__hat-image {
+  position: absolute;
+  left: 1px;
+  transition: all 0.2s linear;
+}
+
+@media (max-width: 480px) {
+  .logo {
+    padding-top: 6px;
+    height: 7px;
+    transition: all 0.2s linear;
+  }
+  .logo__image {
+    width: 48px;
+    height: 7px;
+    transition: all 0.2s linear;
+  }
+  .logo__hat-image {
+    width: 6px;
+    height: 6px;
+    left: 0;
+    top: 5px;
+    transition: all 0.2s linear;
+  }
+}
